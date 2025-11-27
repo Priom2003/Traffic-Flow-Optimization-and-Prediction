@@ -1,0 +1,18 @@
+Low 
+"No rush hour crowd today, roads look empty."
+"Very minimal traffic near Katpadi junction."
+ "Smooth movement across highway, no slowdown reported."
+ "Clear roads near bus stand, everything running fine."
+ "Light vehicle movement, no congestion at all."
+
+Medium
+ "Crowded road near market area, slow-moving traffic."
+ "Lane closure causing slower movement on the highway."
+ "Signal down at railway crossing, moderate congestion building up."
+ "Heavy crowd on roadside today, traffic slightly affected."
+
+High
+ "Road is blocked after a truck breakdown, huge pile-up forming."
+ "Heavy jam near CMC hospital road, police diverting vehicles."
+ "Huge congestion at Chittoor road, traffic stuck for more than 20 minutes."
+ "Multiple vehicles crashed near the Katpadi junction, extreme delays."

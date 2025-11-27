@@ -1,0 +1,21 @@
+raw_text_tweet,latitude,longitude,predicted_label,predicted_text,delay_estimated
+"Massive traffic jam near Katpadi bridge, vehicles at standstill.",12.977340471519144,79.14502587999586,0,Low,0–2 mins
+"Major accident on Chennai highway, road blocked completely.",12.96777158335098,79.15385416240622,2,High,7–12 mins
+"Huge pile-up near Vellore bus stand, avoid the route.",12.97739572195617,79.15122173815035,0,Low,0–2 mins
+"Collision between two buses, heavy congestion reported.",12.969211670425542,79.15867457263721,0,Low,0–2 mins
+Road blocked due to accident near VIT main gate.,12.96675975424696,79.14841928281758,2,High,7–12 mins
+"Traffic moving slowly near Chittoor road, moderate delay expected.",12.976258482284004,79.14152423284695,0,Low,0–2 mins
+Signal problem causing long queues at Katpadi junction.,12.97994538153432,79.14819081047757,0,Low,0–2 mins
+"Crowded roads near market area, movement is slow.",12.961461500087866,79.15907922259767,0,Low,0–2 mins
+"Medium traffic near railway crossing, slight delays.",12.962309790250538,79.1556912429366,0,Low,0–2 mins
+Lane closure causing slower movement near campus area.,12.97575792929155,79.14507689431659,0,Low,0–2 mins
+"Roads are clear near CMC hospital, smooth movement.",12.97913738455104,79.15927611317568,0,Low,0–2 mins
+No significant traffic near Katpadi station.,12.979252369697033,79.15775354447833,0,Low,0–2 mins
+Vehicles moving normally on Bangalore road.,12.972929873725842,79.15743816585122,0,Low,0–2 mins
+Light traffic near VIT hostel area.,12.975951966636552,79.14683335809207,0,Low,0–2 mins
+Road conditions normal with minimal congestion.,12.970665229553015,79.1488887441322,0,Low,0–2 mins
+Small breakdown on roadside but traffic still manageable.,12.966998803378967,79.14332314199413,0,Low,0–2 mins
+Slow moving traffic but no major delays today.,12.978451666809663,79.14517300441686,0,Low,0–2 mins
+Minor jam but cleared quickly near arcot road.,12.974084874440452,79.14096704979248,0,Low,0–2 mins
+Some crowd near temple but vehicles moving fine.,12.966811530627211,79.14137154368362,0,Low,0–2 mins
+Overall smooth traffic with occasional slow patches.,12.968003283003034,79.14043417984922,0,Low,0–2 mins
